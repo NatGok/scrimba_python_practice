@@ -28,3 +28,10 @@ msg='Welcome to Python 101: Strings'
 print('Python' in msg)
 msg='Welcome to Python 101: Strings'
 print('Python' not in msg)
+
+#better way to concatenate strings
+name='TERRY'
+color = 'RED'
+msg = '[' + name + '] loves the color ' + color + '!'
+msg1 = f'[{name}] loves the color {color.lower()}!'
+print(msg1)
