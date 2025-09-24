@@ -19,3 +19,6 @@ The woods one day
 the bears went walking
 we saw them coming"""
 print(msg)
+
+msg='Samantha'
+print(msg.replace('Samantha','Michael'))
