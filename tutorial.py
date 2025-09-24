@@ -22,3 +22,9 @@ print(msg)
 
 msg='Samantha'
 print(msg.replace('Samantha','Michael'))
+
+#contains or doesnt contain key word
+msg='Welcome to Python 101: Strings'
+print('Python' in msg)
+msg='Welcome to Python 101: Strings'
+print('Python' not in msg)
