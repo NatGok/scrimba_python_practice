@@ -17,8 +17,8 @@
 
 # print(list(msg)) = "Hello" will split each letter
 # print(msg.split()) split a message into words and each word is an element in a list
-csv = 'Eric,John,Michael,Terry,Graham'
-print(csv.split(',')) #split at each comma
+# csv = 'Eric,John,Michael,Terry,Graham'
+# print(csv.split(',')) #split at each comma
 
-friends_list = ['Eric','John','Michael','Terry','Graham']
-print('-'.join(friends_list)) #join each element with a hyphen (or any other character you choose)
+# friends_list = ['Eric','John','Michael','Terry','Graham']
+# print('-'.join(friends_list)) #join each element with a hyphen (or any other character you choose)
