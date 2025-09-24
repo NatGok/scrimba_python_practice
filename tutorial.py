@@ -12,3 +12,10 @@ print(msg1.title()) #output 1 Welcome Ring To Tyler
 
 #prints the sequence backwards
 print(msg1[::-1].title)
+
+#print  multiple lines ie print as typed in console - use """
+msg="""Dear Rebecca,
+The woods one day
+the bears went walking
+we saw them coming"""
+print(msg)
